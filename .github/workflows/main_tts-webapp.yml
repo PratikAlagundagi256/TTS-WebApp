@@ -58,4 +58,4 @@ jobs:
         with:
           app-name: 'TTS-WebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A807CC56C17A4A879C4ADC48E5D4DDF0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07ADDD788B5D47B8902BF6AC71508A38 }}
